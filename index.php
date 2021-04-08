@@ -24,7 +24,7 @@
             <li><a href="/api.php?route=getAllHeroes" target="_blank">Get All Heroes</a></li>
             <li><a href="/api.php?route=getHeroByID&hero_id=5" target="_blank">Get Hero By ID</a></li>
             <li><a href="/api.php?route=resetReboots" target="_blank">Reset Reboots</a></li>
-            <li><a href="/api.php?route=addRebootToHero&hero_id=2&reboots=3" target="_blank">Add Reboots to Hero</a></li>
+<!--             <li><a href="/api.php?route=addRebootToHero&hero_id=2&reboots=3" target="_blank">Add Reboots to Hero</a></li> -->
             <li><a href="/api.php?route=createHero" target="_blank">Add Impeccable Ian as Hero</a></li>
             <li><a href="/api.php?route=deleteHero" target="_blank">Delete Impeccable Ian as Hero</a></li>
 <!--             <li><a href="/api.php?route=createBattle&hero1=1&hero2=2&winner=1" target="_blank">Create Battle</a></li> -->
